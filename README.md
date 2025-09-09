@@ -20,7 +20,7 @@ I enjoy building **ML projects, dashboards, and applications** that solve real-w
 - **[Automated Investment Advisor](https://github.com/github-user-21/mini-deploy)** – Portfolio recommendations with ML and dashboard visualization  
 - **[Pollution Anomaly Detection](https://github.com/mihika632/wcehackathon2025_anomalysedev_ps3)** – Time-series anomaly detection using Isolation Forest  
 - **[Blood Bank Inventory System](https://github.com/mihika632/THE-4-POSITIVE-CREW)** – Flutter app with Google Maps integration for supply optimization
-- - **[Eco-Friendly Pest Control via Signal Disruption](https://github.com/github-user-21/Pest-Frequency-IITMHack)** – Simulated a bio-acoustic system to disrupt insect behavior using adaptive vibrational signals
+- **[Eco-Friendly Pest Control via Signal Disruption](https://github.com/github-user-21/Pest-Frequency-IITMHack)** – Simulated a bio-acoustic system to disrupt insect behavior using adaptive vibrational signals
 
 
 ---
